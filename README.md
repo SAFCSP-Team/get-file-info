@@ -1,6 +1,6 @@
 ### Get File Information
 
-#### Objectives
+#### Objective
 Understand how to access a file's information, such as the file's name, size, and path.
 
 #### Concepts
