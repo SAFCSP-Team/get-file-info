@@ -12,8 +12,8 @@ These concepts are the main ones used in your project solution
 | Concepts                     | Resources                                                                                                            |
 |------------------------------|----------------------------------------------------------------------------------------------------------------------|
 | Accessing a file/directory   | [Dev.Java ](https://dev.java/learn/java-io/)                                                                         |
-| System Properties            | [Java Documenation of System Properties](https://docs.oracle.com/javase/tutorial/essential/environment/sysprop.html) |
-
+| Understand the `File` class            | [Digital Ocean - File class tutorial ](https://www.digitalocean.com/community/tutorials/java-get-file-size) |
+| Understand the `Path` class |[Digital Ocean - Path class tutorial ](https://www.digitalocean.com/community/tutorials/java-files-nio-files-class)|
 
 #### Problem
 Print out a file's information (name, size, type, owner, created at, and path).
