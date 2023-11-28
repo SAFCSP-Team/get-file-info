@@ -4,16 +4,15 @@
 Understand how to access a file's information, such as the file's name, size, and path.
 
 #### Concepts
-These concepts are the main used concepts in the project solution, kindly read the provided resources if any is new to you.
-
-These concepts are the main ones used in your project solution
+These concepts have covered file accessing using the `File` class and `Path` class, please look at the provided resources to solve the project. 
 
 
 | Concepts                     | Resources                                                                                                            |
 |------------------------------|----------------------------------------------------------------------------------------------------------------------|
-| Accessing a file/directory   | [Dev.Java ](https://dev.java/learn/java-io/)                                                                         |
+| Accessing a file/directory   | [Dev.Java - I/O Documentation ](https://dev.java/learn/java-io/)                                                                         |
 | Understand the `File` class            | [Digital Ocean - File class tutorial ](https://www.digitalocean.com/community/tutorials/java-get-file-size) |
 | Understand the `Path` class |[Digital Ocean - Path class tutorial ](https://www.digitalocean.com/community/tutorials/java-files-nio-files-class)|
+|Accessing File Resources|[Dev.Java - Accessing File Resources](https://dev.java/learn/java-io/file-system/file-path/)|
 
 #### Problem
 Print out a file's information (name, size, type, owner, created at, and path).
