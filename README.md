@@ -21,9 +21,10 @@ Print out a file's information (name, size, type, owner, created at, and path).
 
 #### Implementation
 Do the implementation of the `printFileInfo` method, to print the `note.txt` file information:
-1. Initialize a variable with `Path` data type , and assign it `Paths.get(/* file path*/)`.
-2. Pass the variable that you have just created to the `printFileInfo(/* file path*/)` method.
-2. Assign the correct value to the following.
+1. Initialize a variable with the `Path` data type, and assign it `Paths.get(/* file path*/)`.
+2. Pass the variable that you have just created to the `printFileInfo(/* path variable */)` method.
+3. In the `printFileInfo()` method, assign the variables to the correct value based on their name.
+4. print the file information (name, owner, type, size).
 
 >* fileName
 >* fileOwner
